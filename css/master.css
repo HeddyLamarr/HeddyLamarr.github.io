@@ -1,0 +1,101 @@
+/*
+Copyright (C) 2019
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+Source code and update history for this page is available on GitHub.
+<https://github.com/HeddyLamarr/HeddyLamarr.github.io/blob/master/master.css>
+*/
+
+body {
+    background-color: #111111;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: #50f148;
+
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: #50f148;
+
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+p {
+    font-family: sans-serif;
+    color: #cccccc;
+    line-height: 1.2;
+
+    padding: 1% 3%;
+    margin-left: 7%;
+    margin-right: 10%;
+    border-left: medium solid #50f148;
+}
+
+ul {
+    font-family: sans-serif;
+    color: #cccccc;
+
+    padding: 1% 3%;
+    margin-left: 7%;
+    margin-right: 10%;
+    border-left: medium solid #50f148;
+
+    list-style: square inside;
+}
+
+ol {
+    font-family: sans-serif;
+    color: #cccccc;
+
+    padding: 1% 3%;
+    margin-left: 7%;
+    margin-right: 10%;
+    border-left: medium solid #50f148;
+}
+
+li {
+    margin-top: 10px;
+}
+
+li:first-child {
+    margin-top: 0;
+}
+
+a {
+    color: CornflowerBlue;
+}
+
+#end_block {
+    padding: 0 3%;
+    border-left: medium solid DarkOrange;
+}
+
+#warn_block {
+    border-left: medium solid Tomato;
+}
+
+#warn_title {
+    color: Tomato;
+}
+
+#nav_link {
+    text-decoration: none;
+}
